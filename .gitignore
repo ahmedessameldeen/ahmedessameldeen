@@ -1,3 +1,7 @@
 __pycache__/
 *.pyc
 .DS_Store
+
+# Auto-README workflow removed (repos private; profile is portfolio-centric)
+.github/workflows/update-readme.yml
+scripts/update_readme.py
